@@ -1,0 +1,17 @@
+{
+  "name": "ai-bug-hunt-methodology",
+  "owner": {
+    "name": "Moulru"
+  },
+  "metadata": {
+    "description": "A step-by-step methodology for AI agents to find and reproduce real bugs across a whole project."
+  },
+  "plugins": [
+    {
+      "name": "bug-hunt",
+      "source": "./",
+      "description": "Whole-project bug hunt methodology: coverage table, 20 methods, independent second hunt, Confirmed/Suspected report, missed-bug retrospective.",
+      "version": "1.0.0"
+    }
+  ]
+}

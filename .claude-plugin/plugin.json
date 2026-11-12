@@ -1,0 +1,10 @@
+{
+  "name": "bug-hunt",
+  "description": "Whole-project bug hunt methodology: coverage table, 20 methods, independent second hunt, Confirmed/Suspected report, missed-bug retrospective.",
+  "version": "1.0.0",
+  "author": { "name": "Moulru" },
+  "homepage": "https://github.com/Moulru/ai-bug-hunt-methodology",
+  "repository": "https://github.com/Moulru/ai-bug-hunt-methodology",
+  "license": "MIT",
+  "keywords": ["bug-hunt", "qa", "testing", "methodology", "code-review"]
+}
